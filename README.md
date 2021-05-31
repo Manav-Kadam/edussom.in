@@ -1,1 +1,1 @@
-# edussom.in
+Edussom starting file

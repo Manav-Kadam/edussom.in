@@ -1,0 +1,620 @@
+
+p {
+  color: #8f8f8f;
+}
+
+#title {
+  background-color: #fff;
+}
+.blue
+{
+  background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 7%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.symbol
+{
+  width: 40%;
+}
+
+.nav-item {
+  margin: 0;
+  padding: 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light', sans-serif;
+}
+.narrow
+{
+  width: 4%;
+}
+.human
+{
+  border-radius: 30%;
+  width: 60%;
+  /*background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);*/
+
+}
+
+.side
+{
+  text-align:center;
+}
+#home
+{
+  background: url("../images/home-back.jpg");
+ background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: center;
+  padding: 2% 10% 8% 10%;
+}
+#about
+  {
+
+    padding: 12% 15% 10% 15%;
+  }
+  .pback
+  {
+
+          background: url("../images/about-back.jpg");
+         background-repeat: no-repeat;
+          background-size: 100%;
+          background-position: center;
+  }
+  .row
+  {
+    margin: 5% 0 0 ;
+  }
+  .nav-link
+  {
+    position: relative;
+    border-radius: 15%;
+  }
+.nav-link:hover
+{
+  background-color: #ce1212;
+
+}
+.fa-6x
+{
+  color: #fff;
+  padding: 4%;
+}
+.card
+{
+  border-color: #0093E9;
+  font-weight: bold;
+}
+  h2
+  {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.emoji
+{
+
+  width: 80%;
+}
+.second
+{
+  font-size: 1.5rem;
+  padding: 4% 10% 4% 10%;
+}
+.founder
+{
+border-radius: 30%;
+width: 60%;
+padding-left: 4%;
+}
+.found
+{
+  padding-top: 7%;
+}
+.first  {
+  border-style: solid;
+  border-top-style: none;
+  height: 3px;
+  width: 100%;
+  margin-top: 5%;
+background-color: #0093E9;
+left: 45%;
+bottom: 45%;
+}
+
+.navbar-brand
+{
+  font-family: 'Audiowide', cursive;
+}
+.navbar
+{
+  overflow: hidden;
+  transition: 0.4s;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99
+}
+.insti
+{
+  font-family: 'Audiowide', cursive;
+}
+.you
+{
+  padding: 10% 5% 5% 5%;
+}
+.third
+{
+padding: 0 7% 0 7%;
+}
+.box{
+  text-align: center;
+  padding: 2%;
+  line-height: 2;
+}
+.card-body
+{
+  padding: 0%;;
+}
+.fix
+{
+  padding-bottom: 13%;
+}
+.row
+{
+  padding:0 0 2% 0;
+}
+.what
+{
+  padding-top: 5%;
+}
+.surv
+{
+  padding: 1% 13% 1% 13%;
+}
+#footer
+{
+line-height: 2;
+background-color: #f3f4ed;
+}
+
+.phone
+{
+  margin: 0;
+  width: 5%;
+}
+.details
+{
+  text-align: left;
+  padding-top: 6%;
+}
+.social
+{
+  margin: 0;;
+  padding: 1%;
+  color: black;
+}
+.bright
+{
+  text-align: left;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.ending
+{
+  width: 80%;
+  padding: 8% 0 0 0;
+}
+#testimonials {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+  background-color: #e84545;
+  color: #fff;
+}
+#contact{
+  padding: 0 10% 0 10% ;
+}
+.rev
+{
+  margin: 3% 3% 0 0;
+  width: 10%;
+  border-radius: 100%;
+}
+.testimonial-text
+{
+  color: #fff;
+}
+.negi
+{
+  color: #fff;
+}
+.container-fluid
+{
+  padding: 0;
+}
+.inform
+{
+    width: 100%;
+}
+.finish
+{
+  margin: 0;
+  color: black;
+  text-align: center;
+}
+.expect
+{
+  margin: 0;
+}
+.you
+{
+  color: red;
+}
+.yout
+{
+  padding-top: 10%;
+}
+.come
+{
+  text-align: right;
+}
+#cont
+{
+  background-color: #d5ecc2;
+  color: #fff:
+}
+.contact-form{
+    background: #fff;
+    width: 70%;
+}
+.rock{
+  background-color: #fff;
+}
+.rocky
+{
+padding-top: 10%;
+padding-bottom: 5%;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+.form-control{
+    border-radius:1rem;
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -3%;
+    transform: rotate(29deg);
+}
+form{
+    padding: 14%;
+}
+form .row{
+    margin-bottom: -7%;
+}
+h3{
+    margin-bottom: 2%;
+    margin-top:2%;
+    text-align: center;
+    color: #black;
+}
+.btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+
+.graduate
+{
+        background: url("https://business.uoregon.edu/sites/business1.uoregon.edu/files/styles/banner/public/news/Enews-FacultyAwards-thumb-0718.jpg?itok=c9Ko9-dl");
+           background-repeat: no-repeat;
+            background-size: 120%;
+            background-position: center;
+}
+
+.crosshairs
+{
+     background: url("https://th.bing.com/th/id/OIP.ZyjpW7dlIGfqvYuP43lx6wHaE8?pid=ImgDet&rs=1");
+           background-repeat: no-repeat;
+            background-size: 120%;
+            background-position: center;
+}
+
+.friends
+{
+
+       background: url("https://thumbs.dreamstime.com/b/diverse-group-people-students-workplace-cute-simple-flat-cartoon-style-vector-illustration-84926810.jpg");
+             background-repeat: no-repeat;
+              background-size: 120%;
+              background-position: center;
+}
+.signal
+{
+  background: url("https://th.bing.com/th/id/Raca1d1c56314de60ed51be5306cb0b93?rik=%2bpwgA1U0VpuGEA&riu=http%3a%2f%2fcompliancestrategists.com%2fcsblog%2fwp-content%2fuploads%2f2016%2f05%2f635847101114928252-1417654301_start-getting-good-grades.jpg&ehk=5Mn54xCpvw%2fvk0AxxvyQJSdIiisdoCdjV14NMwSPWBg%3d&risl=&pid=ImgRaw");
+        background-repeat: no-repeat;
+         background-size: 100%;
+         background-position: center;
+
+}
+.reader
+{
+
+
+    background: url("https://www.thoughtco.com/thmb/6W0CpG3ViFXfUprSdwNJZBcn91Q=/5368x3579/filters:fill%28auto,1%29/little-girl-lying-on-the-floor-reading-a-book-686736565-5a37ed66f1300a00379c8331.jpg");
+          background-repeat: no-repeat;
+           background-size: 100%;
+           background-position: center;
+}
+
+.check
+{
+
+
+      background: url("https://classroomclipart.com/images/gallery/Clipart/School/boy-happy-he-completed-his-exam-test.jpg");
+            background-repeat: no-repeat;
+             background-size: 90%;
+             background-position: center;
+}
+.teacher
+{
+            background: url("https://www.pinclipart.com/picdir/big/579-5799904_teacher-animation-school-education-cartoon-animated-teacher-gif.png");
+              background-repeat: no-repeat;
+               background-size: 65%;
+               background-position: center;
+               background-color: #cdc7be;
+}
+.rupee
+{
+
+
+              background: url("https://imgix.bustle.com/mic/ec6ujd4l7hoepc60fiyibq4w7mkyc5zuxxr1lg9zd2htgxl7higdxv82xvgko9pq.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format%2Ccompress");
+                background-repeat: no-repeat;
+                 background-size: 120%;
+                 background-position: center;
+}
+.tech1
+{
+  color: #ffddcc;
+}
+.one
+{
+  color: #ffc93c;
+}
+.tech2
+{
+  color: #fff;
+}
+.two
+{
+  color: #caf7e3;
+}
+.tech3
+{
+color: #fff5b7;
+}
+.three
+{
+color: #fc92e3;
+}
+.tech4
+{
+color: black;
+}
+.four
+{
+color: #cf0000;
+}
+.five
+{
+  color: #00ead3;
+}
+.tech5
+{
+  color: #185adb;
+}
+.six
+{
+color:#eba83a;
+}
+.tech7
+{
+  color: #cf0000;
+}
+.seven
+{
+  color:black;
+}
+.eight
+{
+  color: green;
+}
+.tech8
+{
+color: black;
+}
+.drop
+{
+  margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: #0062cc;
+}
+youtube:hover
+{
+  color:blue;
+}
+.school
+{
+  width:70%;
+  text-align: center;
+}
+
+
+.sidharth
+{
+  color:#0062cc;
+  font-family: 'Montserrat', sans-serif;
+}
+#sid
+{
+           background: url("../images/sid-back.jpg");
+           background-repeat: no-repeat;
+            background-size: 100%;
+            background-position: center;
+}
+
+
+
+
+
+
+
+@media ( max-width:1090px)
+{
+.side
+{
+  text-align: center;
+}
+.first{
+  transform: rotate(0deg);
+  top: 8%;
+  left: 2%;
+  width: 90%
+}
+.form-cont
+{
+  text-align: center;
+}
+#home
+{
+  text-align: center;
+}
+.intro
+{
+  text-align: center;
+}
+.third
+{
+  text-align: center;
+}
+.narrow
+{
+  width: 10%;
+}
+.blue
+{
+  text-align: center;
+}
+.nav-link
+{
+  font-weight: bold;
+  font-size: 2rem;
+}
+.found
+{
+  padding-top: 20%;
+}
+.map
+{
+  width: 1000px;
+  height: 700px;
+  padding:3%;;
+}
+body
+{
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 0;
+  width: 1020px;
+}
+.expect
+{
+  text-align: center;
+}
+.card
+{
+  font-size: 2.5rem;
+}
+.lets
+{
+  padding: 2%;
+}
+.form-cont
+{
+  padding-top:3%;
+  text-align: center;
+}
+.contact-form
+{
+  width: 200%;
+}
+.drop
+{
+  font-size: 2rem;
+  padding-top: 10%;
+    text-align: center;
+    color: #0062cc;
+}
+.form-control
+{
+  height: 100px;
+  font-size: 2rem;
+}
+.btnContact
+{
+  height: 65px;
+}
+.unite
+
+{
+  height: 1100px;
+  }
+  #sid
+  {
+             background: url("../images/sid-back1.jpg");
+             background-repeat: no-repeat;
+              background-size: 110%;
+              background-position: center;
+  }
+  .sidharth
+  {
+    color: #ffcb69;
+  }
+}
